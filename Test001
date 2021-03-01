@@ -1,0 +1,4 @@
+intent('Hello Alan', p => {
+    p.play('Hi there');
+    p.play('How are you?');
+})
